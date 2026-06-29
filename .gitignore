@@ -2,3 +2,4 @@ gameresources/
 __pycache__/
 .vscode/
 highscore.txt
+.DS_Store
