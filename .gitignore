@@ -1,0 +1,4 @@
+gameresources/
+__pycache__/
+.vscode/
+highscore.txt
