@@ -37,7 +37,7 @@ pygame.display.set_caption("TETRIS GAME")
 
 # Load the background music
 pygame.mixer.music.load(
-    "gameresources/gregorquendel-tetris-theme-korobeiniki-rearranged-arr-for-music-box-184978.mp3"
+    "gameresources/tetris.ogg"
 )
 rotate_sound = pygame.mixer.Sound("gameresources/rotate.ogg")
 clear_sound = pygame.mixer.Sound("gameresources/clear.ogg")
